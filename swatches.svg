@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 840" width="760" height="840"
+     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <rect width="760" height="840" fill="#2e3440" rx="12"/>
+
+  <!-- Title -->
+  <text x="32" y="44" fill="#eceff4" font-size="24" font-weight="700" letter-spacing="4">NORD</text>
+  <text x="32" y="62" fill="#d8dee9" font-size="11" letter-spacing="1">Color Palette — Zed Theme</text>
+
+  <!-- ── POLAR NIGHT ─────────────────────────────────────────── -->
+  <text x="32" y="92" fill="#81a1c1" font-size="10" font-weight="600" letter-spacing="2">POLAR NIGHT</text>
+
+  <rect x="32"  y="104" width="156" height="64" rx="6" fill="#2e3440" stroke="#616e88" stroke-width="1"/>
+  <rect x="204" y="104" width="156" height="64" rx="6" fill="#3b4252"/>
+  <rect x="376" y="104" width="156" height="64" rx="6" fill="#434c5e"/>
+  <rect x="548" y="104" width="156" height="64" rx="6" fill="#4c566a"/>
+
+  <text x="32"  y="184" fill="#eceff4" font-size="11" font-weight="600">nord0  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#2e3440</tspan></text>
+  <text x="32"  y="198" fill="#d8dee9" font-size="10">Editor, sidebar, panel bg</text>
+
+  <text x="204" y="184" fill="#eceff4" font-size="11" font-weight="600">nord1  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#3b4252</tspan></text>
+  <text x="204" y="198" fill="#d8dee9" font-size="10">Status bar, active tab</text>
+
+  <text x="376" y="184" fill="#eceff4" font-size="11" font-weight="600">nord2  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#434c5e</tspan></text>
+  <text x="376" y="198" fill="#d8dee9" font-size="10">Selection, active line</text>
+
+  <text x="548" y="184" fill="#eceff4" font-size="11" font-weight="600">nord3  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#4c566a</tspan></text>
+  <text x="548" y="198" fill="#d8dee9" font-size="10">Borders, indent guides</text>
+
+  <!-- ── ADDITION ──────────────────────────────────────────────── -->
+  <text x="32" y="226" fill="#81a1c1" font-size="10" font-weight="600" letter-spacing="2">ADDITION</text>
+
+  <rect x="32" y="238" width="156" height="64" rx="6" fill="#616e88"/>
+
+  <text x="32"  y="318" fill="#eceff4" font-size="11" font-weight="600">nord3.5  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#616e88</tspan></text>
+  <text x="32"  y="332" fill="#d8dee9" font-size="10">Line numbers, comments, disabled text</text>
+
+  <!-- ── SNOW STORM ──────────────────────────────────────────── -->
+  <text x="32" y="362" fill="#81a1c1" font-size="10" font-weight="600" letter-spacing="2">SNOW STORM</text>
+
+  <rect x="32"  y="374" width="220" height="64" rx="6" fill="#d8dee9"/>
+  <rect x="268" y="374" width="220" height="64" rx="6" fill="#e5e9f0"/>
+  <rect x="504" y="374" width="220" height="64" rx="6" fill="#eceff4"/>
+
+  <text x="32"  y="454" fill="#eceff4" font-size="11" font-weight="600">nord4  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#d8dee9</tspan></text>
+  <text x="32"  y="468" fill="#d8dee9" font-size="10">Primary text, editor fg, icons</text>
+
+  <text x="268" y="454" fill="#eceff4" font-size="11" font-weight="600">nord5  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#e5e9f0</tspan></text>
+  <text x="268" y="468" fill="#d8dee9" font-size="10">Terminal ANSI white</text>
+
+  <text x="504" y="454" fill="#eceff4" font-size="11" font-weight="600">nord6  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#eceff4</tspan></text>
+  <text x="504" y="468" fill="#d8dee9" font-size="10">Punctuation, bold, bright white</text>
+
+  <!-- ── FROST ───────────────────────────────────────────────── -->
+  <text x="32" y="498" fill="#81a1c1" font-size="10" font-weight="600" letter-spacing="2">FROST</text>
+
+  <rect x="32"  y="510" width="156" height="64" rx="6" fill="#8fbcbb"/>
+  <rect x="204" y="510" width="156" height="64" rx="6" fill="#88c0d0"/>
+  <rect x="376" y="510" width="156" height="64" rx="6" fill="#81a1c1"/>
+  <rect x="548" y="510" width="156" height="64" rx="6" fill="#5e81ac"/>
+
+  <text x="32"  y="590" fill="#eceff4" font-size="11" font-weight="600">nord7  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#8fbcbb</tspan></text>
+  <text x="32"  y="604" fill="#d8dee9" font-size="10">Types, classes, attributes</text>
+
+  <text x="204" y="590" fill="#eceff4" font-size="11" font-weight="600">nord8  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#88c0d0</tspan></text>
+  <text x="204" y="604" fill="#d8dee9" font-size="10">Functions, selectors, links</text>
+
+  <text x="376" y="590" fill="#eceff4" font-size="11" font-weight="600">nord9  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#81a1c1</tspan></text>
+  <text x="376" y="604" fill="#d8dee9" font-size="10">Keywords, operators, tags</text>
+
+  <text x="548" y="590" fill="#eceff4" font-size="11" font-weight="600">nord10  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#5e81ac</tspan></text>
+  <text x="548" y="604" fill="#d8dee9" font-size="10">Preprocessor directives</text>
+
+  <!-- ── AURORA ──────────────────────────────────────────────── -->
+  <text x="32" y="634" fill="#81a1c1" font-size="10" font-weight="600" letter-spacing="2">AURORA</text>
+
+  <rect x="32"  y="646" width="128" height="64" rx="6" fill="#bf616a"/>
+  <rect x="172" y="646" width="128" height="64" rx="6" fill="#d08770"/>
+  <rect x="312" y="646" width="128" height="64" rx="6" fill="#ebcb8b"/>
+  <rect x="452" y="646" width="128" height="64" rx="6" fill="#a3be8c"/>
+  <rect x="592" y="646" width="128" height="64" rx="6" fill="#b48ead"/>
+
+  <text x="32"  y="726" fill="#eceff4" font-size="11" font-weight="600">nord11  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#bf616a</tspan></text>
+  <text x="32"  y="740" fill="#d8dee9" font-size="10">Errors, deleted</text>
+
+  <text x="172" y="726" fill="#eceff4" font-size="11" font-weight="600">nord12  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#d08770</tspan></text>
+  <text x="172" y="740" fill="#d8dee9" font-size="10">Decorators, conflicts</text>
+
+  <text x="312" y="726" fill="#eceff4" font-size="11" font-weight="600">nord13  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#ebcb8b</tspan></text>
+  <text x="312" y="740" fill="#d8dee9" font-size="10">Warnings, regex, escapes</text>
+
+  <text x="452" y="726" fill="#eceff4" font-size="11" font-weight="600">nord14  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#a3be8c</tspan></text>
+  <text x="452" y="740" fill="#d8dee9" font-size="10">Strings, success, added</text>
+
+  <text x="592" y="726" fill="#eceff4" font-size="11" font-weight="600">nord15  <tspan font-family="'SF Mono','Fira Code',monospace" font-weight="400" fill="#d8dee9">#b48ead</tspan></text>
+  <text x="592" y="740" fill="#d8dee9" font-size="10">Numbers</text>
+
+  <!-- ── FOOTER ──────────────────────────────────────────────── -->
+  <line x1="32" y1="768" x2="728" y2="768" stroke="#3b4252" stroke-width="1"/>
+  <text x="32" y="788" fill="#d8dee9" font-size="10">nordtheme.com  ·  Zed port by Paul Calnan  ·  github.com/pwc3/nord-zed</text>
+</svg>

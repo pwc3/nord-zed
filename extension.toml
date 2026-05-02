@@ -1,0 +1,8 @@
+id = "nord-theme"
+name = "Nord"
+version = "1.0.0"
+schema_version = 1
+authors = ["Paul Calnan"]
+description = "Nord color scheme for Zed"
+repository = "https://github.com/pwc3/nord-zed"
+themes = ["themes/nord.json"]
